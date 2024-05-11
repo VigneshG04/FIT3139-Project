@@ -1,0 +1,10 @@
+Base Model: Iterated Prisoner's Dilemma
+
+Extension:
+
+
+Showcase:
+ - Game Theory
+ - Monte Carlo Simulation
+
+Questions:
