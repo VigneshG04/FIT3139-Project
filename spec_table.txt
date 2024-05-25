@@ -10,6 +10,3 @@ Showcase:
 Questions:
  - How does randomness affect the survival outcomes of predator/prey?
  - How does the behaviour of predator/prey affect their survival ability?
-
-
- 
