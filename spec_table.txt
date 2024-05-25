@@ -1,17 +1,15 @@
-Base Model: Iterated Prisoner's Dilemma
+Base Model: Lotka-Volterra in Discrete Time
 
 Extension:
- - Simulate several rounds of the iterated prisoner's dillema with evolving strategies
+ - Stochastic Lotka-Volterra Model
 
 Showcase:
- - Game Theory (Trying different set strategies)
- - Monte Carlo Simulation (Simulating random choices/strategies)
- Maybe these two can go together?
- - Can maybe do heuristics (how to?)
+ - Gillespie's Algorithm: Stochastic simulation in discrete Time
+ - Game Theory: The predator and prey can take risks, which may increase or decrease their ability to survive
 
 Questions:
- - What is the optimal strategy for individual outcomes?
- - ?
+ - How does randomness affect the survival outcomes of predator/prey?
+ - How does the behaviour of predator/prey affect their survival ability?
 
 
  
