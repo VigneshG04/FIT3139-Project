@@ -1,12 +1,13 @@
-Base Model: Lotka-Volterra in Discrete Time
+Base Model: Guerilla Warfare
 
 Extension:
- - Stochastic Lotka-Volterra Model
+ - Stochastic Guerilla Warfare
+ Assumptions:
+  - Single decrements
+  - Equal time between events
 
 Showcase:
- - Gillespie's Algorithm: Stochastic simulation in discrete Time
- - Game Theory: The predator and prey can take risks, which may increase or decrease their ability to survive
+ - Markov Chains
+ - Montecarlo Simulation
 
 Questions:
- - How does randomness affect the survival outcomes of predator/prey?
- - How does the behaviour of predator/prey affect their survival ability?
